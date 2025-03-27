@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0948-sort-an-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Divide and Conquer
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
