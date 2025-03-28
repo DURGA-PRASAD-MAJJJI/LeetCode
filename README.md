@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0948-sort-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0948-sort-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Recursion
 |  |
