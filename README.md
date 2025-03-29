@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0507-perfect-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2491-smallest-even-multiple](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0392-is-subsequence) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
