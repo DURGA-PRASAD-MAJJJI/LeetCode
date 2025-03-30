@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0507-perfect-number](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0507-perfect-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1274-number-of-days-between-two-dates](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2491-smallest-even-multiple](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Array
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1274-number-of-days-between-two-dates](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1894-merge-strings-alternately](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Simulation
