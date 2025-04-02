@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0029-divide-two-integers) |
 | [0507-perfect-number](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0507-perfect-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1274-number-of-days-between-two-dates](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
