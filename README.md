@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0392-is-subsequence) |
 ## Number Theory
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0029-divide-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
