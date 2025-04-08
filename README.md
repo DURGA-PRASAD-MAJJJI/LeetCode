@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0455-assign-cookies](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0455-assign-cookies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0890-lemonade-change](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0948-sort-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1319-unique-number-of-occurrences](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0392-is-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1274-number-of-days-between-two-dates](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1894-merge-strings-alternately](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1894-merge-strings-alternately) |
