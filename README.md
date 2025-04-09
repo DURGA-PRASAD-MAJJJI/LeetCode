@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-days-between-two-dates](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2491-smallest-even-multiple](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2630-alternating-digit-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2630-alternating-digit-sum) |
 ## Array
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2547-odd-string-difference](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2547-odd-string-difference) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
