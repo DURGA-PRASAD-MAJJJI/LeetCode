@@ -168,4 +168,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0890-lemonade-change) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
