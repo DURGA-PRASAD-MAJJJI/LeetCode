@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0396-rotate-function](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0598-range-addition-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0890-lemonade-change](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0890-lemonade-change) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0100-same-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
