@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2630-alternating-digit-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Array
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0890-lemonade-change) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Tree
 |  |
 | ------- |
