@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3226-minimum-number-game](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3226-minimum-number-game) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Divide and Conquer
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0948-sort-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3226-minimum-number-game](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Binary Search
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
