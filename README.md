@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1274-number-of-days-between-two-dates](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1642-water-bottles](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1642-water-bottles) |
 | [2491-smallest-even-multiple](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0415-add-strings) |
+| [1642-water-bottles](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1642-water-bottles) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2645-pass-the-pillow) |
