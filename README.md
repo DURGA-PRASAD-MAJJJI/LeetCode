@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3226-minimum-number-game](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3226-minimum-number-game) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Divide and Conquer
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0890-lemonade-change) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Tree
 |  |
 | ------- |
