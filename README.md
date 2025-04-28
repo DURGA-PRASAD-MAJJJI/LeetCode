@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1274-number-of-days-between-two-dates](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1894-merge-strings-alternately](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2154-minimum-moves-to-convert-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2547-odd-string-difference](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2547-odd-string-difference) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0890-lemonade-change) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2154-minimum-moves-to-convert-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Tree
