@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-minimum-moves-to-convert-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2547-odd-string-difference](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2547-odd-string-difference) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Simulation
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0097-interleaving-string) |
 | [0392-is-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0396-rotate-function) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Matrix
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Tree
 |  |
