@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Matrix
@@ -232,10 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
