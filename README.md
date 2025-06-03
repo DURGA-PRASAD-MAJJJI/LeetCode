@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0598-range-addition-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0598-range-addition-ii) |
 | [0797-rabbits-in-forest](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1048-clumsy-factorial](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1274-number-of-days-between-two-dates](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0415-add-strings) |
+| [1048-clumsy-factorial](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1642-water-bottles](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1642-water-bottles) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1048-clumsy-factorial](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1048-clumsy-factorial) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Matrix
 |  |
