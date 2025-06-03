@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1552-build-an-array-with-stack-operations](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2249-count-the-hidden-sequences](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0415-add-strings) |
 | [1048-clumsy-factorial](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1048-clumsy-factorial) |
+| [1552-build-an-array-with-stack-operations](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1642-water-bottles) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1048-clumsy-factorial](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1048-clumsy-factorial) |
+| [1552-build-an-array-with-stack-operations](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Matrix
 |  |
