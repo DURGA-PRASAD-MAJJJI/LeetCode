@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0507-perfect-number) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0029-divide-two-integers) |
+| [0342-power-of-four](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0342-power-of-four) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Stack
 |  |
