@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0598-range-addition-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0598-range-addition-ii) |
 | [0797-rabbits-in-forest](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1013-fibonacci-number](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1274-number-of-days-between-two-dates](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0396-rotate-function) |
+| [1013-fibonacci-number](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1013-fibonacci-number) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Number Theory
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
