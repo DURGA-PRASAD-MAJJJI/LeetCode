@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0016-3sum-closest) |
+| [0046-permutations](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0066-plus-one) |
@@ -302,5 +303,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
