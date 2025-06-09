@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0561-array-partition) |
 | [0598-range-addition-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0598-range-addition-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0778-reorganize-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0778-reorganize-string) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0739-daily-temperatures) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0739-daily-temperatures) |
 ## Geometry
