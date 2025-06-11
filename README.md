@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0342-power-of-four) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0097-interleaving-string) |
 | [0316-remove-duplicate-letters](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0735-asteroid-collision) |
 | [1048-clumsy-factorial](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1048-clumsy-factorial) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0342-power-of-four) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Stack
