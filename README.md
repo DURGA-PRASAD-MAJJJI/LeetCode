@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0735-asteroid-collision](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0948-sort-an-array) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0792-binary-search) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Prefix Sum
 |  |
