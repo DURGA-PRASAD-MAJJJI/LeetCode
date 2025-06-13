@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0561-array-partition) |
 | [0778-reorganize-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0948-sort-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0097-interleaving-string) |
 | [0316-remove-duplicate-letters](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0415-add-strings) |
 | [0556-next-greater-element-iii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0567-permutation-in-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
