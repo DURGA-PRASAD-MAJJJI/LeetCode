@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3226-minimum-number-game](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3226-minimum-number-game) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Divide and Conquer
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0948-sort-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1500-count-largest-group) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2547-odd-string-difference](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2547-odd-string-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
