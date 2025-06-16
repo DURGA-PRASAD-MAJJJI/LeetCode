@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0198-house-robber) |
+| [0303-range-sum-query-immutable](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2249-count-the-hidden-sequences](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
