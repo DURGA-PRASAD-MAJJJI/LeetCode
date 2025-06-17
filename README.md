@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1435-xor-queries-of-a-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0342-power-of-four) |
+| [1435-xor-queries-of-a-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2427-first-letter-to-appear-twice](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Stack
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2249-count-the-hidden-sequences](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 ## Backtracking
