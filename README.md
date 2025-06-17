@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0198-house-robber) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0455-assign-cookies) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Memoization
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
