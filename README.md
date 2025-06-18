@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0055-jump-game) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0070-climbing-stairs) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0455-assign-cookies) |
