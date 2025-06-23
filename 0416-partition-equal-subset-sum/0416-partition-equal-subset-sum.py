@@ -23,7 +23,3 @@ class Solution:
         else:
             self.dd[n][target]=self.solve(nums,target,n-1)
         return self.dd[n][target]
-
-
-        
-        
