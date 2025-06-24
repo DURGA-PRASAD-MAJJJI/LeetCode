@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0778-reorganize-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0778-reorganize-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1250-longest-common-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1274-number-of-days-between-two-dates](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1894-merge-strings-alternately](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Number Theory
 |  |
