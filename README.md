@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0948-sort-an-array) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0342-power-of-four) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2427-first-letter-to-appear-twice](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
