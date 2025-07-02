@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0066-plus-one) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0070-climbing-stairs) |
