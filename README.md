@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0735-asteroid-collision) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0200-number-of-islands) |
