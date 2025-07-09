@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0740-delete-and-earn) |
 | [0792-binary-search](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0890-lemonade-change) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0740-delete-and-earn](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0740-delete-and-earn](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0740-delete-and-earn) |
 | [1013-fibonacci-number](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
