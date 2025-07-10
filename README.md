@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
