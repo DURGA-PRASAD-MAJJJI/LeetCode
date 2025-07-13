@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2249-count-the-hidden-sequences](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2547-odd-string-difference](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2547-odd-string-difference) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3226-minimum-number-game](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3226-minimum-number-game) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Recursion
 |  |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0890-lemonade-change) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
