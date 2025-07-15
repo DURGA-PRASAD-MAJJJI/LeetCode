@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-odd-string-difference](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2547-odd-string-difference) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
+| [3396-valid-word](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3396-valid-word) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Simulation
 |  |
