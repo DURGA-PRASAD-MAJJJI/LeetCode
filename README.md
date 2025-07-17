@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Number Theory
 |  |
 | ------- |
