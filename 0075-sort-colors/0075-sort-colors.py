@@ -3,12 +3,13 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        c={}
-        for i in range(len(nums)):
-            c[nums[i]]=c.get(nums[i],0)+1
-        index=0
-        for j in range(3):
-            fq=c.get(j,0)
-            nums[index:index+fq]=[j]*fq
-            index+=fq
-        
+        n=len(nums)
+        for i in range(n):
+            mini=i
+            for j in range(i+1,n):
+                if nums[mini]>nums[j]:
+                    mini=j
+            temp=nums[mini]
+            nums[mini]=nums[i]
+            nums[i]=temp 
+
