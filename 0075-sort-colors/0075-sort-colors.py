@@ -12,4 +12,3 @@ class Solution:
             temp=nums[mini]
             nums[mini]=nums[i]
             nums[i]=temp 
-
