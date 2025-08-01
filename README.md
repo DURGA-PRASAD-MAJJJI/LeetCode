@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0561-array-partition) |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
