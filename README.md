@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0695-max-area-of-island) |
@@ -409,12 +411,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
