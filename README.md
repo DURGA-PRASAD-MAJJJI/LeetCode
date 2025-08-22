@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0740-delete-and-earn](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0740-delete-and-earn) |
+| [0954-maximum-sum-circular-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Design
 |  |
 | ------- |
@@ -495,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0695-max-area-of-island) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
