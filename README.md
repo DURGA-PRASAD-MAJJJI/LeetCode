@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0075-sort-colors) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0316-remove-duplicate-letters) |
