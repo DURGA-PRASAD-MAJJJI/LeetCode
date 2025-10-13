@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0047-permutations-ii) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
