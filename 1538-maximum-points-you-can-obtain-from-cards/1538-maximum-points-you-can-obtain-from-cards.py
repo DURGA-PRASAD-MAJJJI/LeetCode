@@ -1,13 +1,11 @@
 class Solution:
     def maxScore(self, cardPoints: List[int], k: int) -> int:
-        leftsum=sum(cardPoints[:k])
-        rightsum=0
-        maxPointer=leftsum
         n=len(cardPoints)
-        idx=n-1
-        for i in range(k-1,-1,-1):
-            leftsum-=cardPoints[i]
-            rightsum+=cardPoints[idx]
-            idx-=1
-            maxPointer=max(maxPointer,leftsum+rightsum)
-        return maxPointer
+        l=sum(cardPoints[:k])
+        r=0
+        maxx=l
+        for i in range(1,k+1):
+            l-=cardPoints[k-i]
+            r+=cardPoints[n-i]
+            maxx=max(maxx,l+r)
+        return maxx
