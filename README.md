@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1470-shuffle-the-array](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/DURGA-PRASAD-MAJJJI/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
